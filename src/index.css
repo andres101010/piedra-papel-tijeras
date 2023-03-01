@@ -1,0 +1,37 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-color: #010491de;
+}
+.container{
+  display: -webkit-inline-box;
+ 
+}
+h1{
+  color: rgb(238, 243, 241);
+}
+h2{
+ color: rgb(238, 40, 40);
+}
+h3{
+  color:rgb(31, 235, 92) ;
+  margin-left: 85px;
+}
+button{
+  cursor: pointer;
+  color: rgb(238, 52, 52);
+  background-color:slategray;
+  border-radius: 50%;
+  border: none;
+  height: 220px; 
+  width: 200px;
+  margin-top: 15px;
+  
+}
+button:hover{
+  height: 35px;
+  width: 95px;
+  background-color: aliceblue;
+}
+
